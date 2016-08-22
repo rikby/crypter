@@ -4,6 +4,7 @@
   "minimum-stability": "stable",
   "prefer-stable": true,
   "license": "GPL-3.0",
+  "type": "library",
   "require": {
     "php": ">=5.4"
   },
