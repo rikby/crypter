@@ -5,11 +5,11 @@
   "prefer-stable": true,
   "license": "GPL-3.0",
   "require": {
-    "php": ">=5.4",
+    "php": ">=5.4"
   },
   "autoload": {
     "psr-4": {
-      "Rikby\\Crypter\\": "src/",
+      "Rikby\\Crypter\\": "src/"
     }
   },
   "extra": {
